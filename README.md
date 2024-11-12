@@ -10,7 +10,7 @@ Hypothesis:
 Details of group
 Student1: Otgontsetseg Demberel (SPI240031)
 Student2: Narantuya Davaasuren ( SPI240113)
-Student3: Ariunjargal Batsukh (SPI24
+Student3: Ariunjargal Batsukh (SPI240254)
 
 
 # MDS606_5
