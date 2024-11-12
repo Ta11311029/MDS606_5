@@ -1,4 +1,5 @@
 Overview of the project 
+
 Research topic: AI in Education or E-Learning Platforms for Personalized Education: Analyze the effectiveness of e-learning platforms in delivering personalized education experiences, considering adaptive learning algorithms and tailored content delivery.
 
 Project Description
@@ -9,14 +10,12 @@ Hypothesis:
 Details of group
 Student1: Otgontsetseg Demberel (SPI240031)
 Student2: Narantuya Davaasuren ( SPI240113)
-Student3:
+Student3: Ariunjargal Batsukh (SPI24
+
 
 # MDS606_5
 
 
-[Files](Files.md)
-
-[Images](Images.md)
 
 [Data_Anaysis](DataAnalysis.md)
 
